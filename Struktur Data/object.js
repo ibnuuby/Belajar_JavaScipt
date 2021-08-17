@@ -6,4 +6,5 @@ let fruit = {
     order : 1
 }
 
+
 console.log(fruit["order"]);
