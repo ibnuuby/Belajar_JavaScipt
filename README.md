@@ -1,3 +1,2 @@
-# Belajar_JavaScipt
-# Repository-Baru
-# Repository-Baru
+# Js-problem-solving-01
+Sloved Some kind of Basic Problem!
